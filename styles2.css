@@ -1,0 +1,80 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+    background-color: purple;
+  }
+  
+  /* Header */
+  header {
+    width: 100%;
+    height: 100px;
+    background-color: red;
+    text-align: center;
+    display: inline-block;
+    position: fixed; 
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;   
+    }
+ section{
+        width: 200px;
+        height: 180px;
+        border: 5px solid blue;
+        display: inline-block; 
+        padding: 0px;
+        margin: 25px;
+        font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        font-size: 15px;
+        text-align: center;
+        color: black;       
+ }
+
+ .BP{
+    background-image: url(21-point\,-brayden-\(22\)-ep.jpg);
+    color: black;
+    background-size: 200px
+}
+.VT{
+  background-image: url(OIP.jpg);
+  color:white;
+  background-size: 300px;
+}
+.CMD{
+  background-image: url(connor-mcdavid.jpg);
+  background-size: 325px;
+}
+.CG{
+  background-image: url(download.jpg);
+  background-size: 250px;
+  color: white;
+}
+.JE{
+  background-image: url(R.jpg);
+  background-size: 275px;
+  color: white;
+
+}
+.AC{
+  background-image: url(https://cdn.theathletic.com/app/uploads/2018/04/27095214/USATSI_10709898.jpg);
+  background-size: 350px;
+  color: white;
+}
+.JB{
+  background-image: url(OIP\ \(2\).jpg);
+  background-size: 250px;
+  color: white;
+}
+.Lucic{
+  background-image: url(OIP\ \(3\).jpg);
+  background-size: 250px;
+  color: black;
+}
+.BM{
+  background-image: url(download\ \(1\).jpg);
+  background-size: 250px;
+  color: white;
+}
+.ride{
+  color: white;
+}
+.main{
+  text-align: center;
+}
